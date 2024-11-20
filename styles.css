@@ -1,0 +1,75 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2, h3, h4, h5 {
+    margin: 5px;
+}
+
+table {
+    width: 80%;
+    margin: 20px auto;
+    border-collapse: collapse;
+    table-layout: fixed;
+}
+
+thead th {
+    background-color: #f2f2f2;
+    padding: 10px;
+}
+
+tbody td, thead th {
+    border: 1px solid black; /* Cambiado a borde negro */
+    padding: 15px;
+    text-align: center;
+}
+
+.break {
+    background-color: #f2e8a6;
+    font-weight: bold;
+}
+
+.mp04 {
+    background-color: #f7d7b4;
+}
+
+.mp06 {
+    background-color: #b2d1f7;
+}
+
+.mp07 {
+    background-color: #fce1c4;
+}
+
+.mp08 {
+    background-color: #e4c4e1;
+}
+
+.mp10 {
+    background-color: #d2cce4;
+}
+
+.mp12 {
+    background-color: #f4f4d9;
+}
+
+.tutoria {
+    background-color: #ccc;
+}
+
+.modules {
+    width: 80%;
+    margin: 20px auto;
+}
+
+.modules thead th, .modules tbody td {
+    border: 1px solid black; /* Bordes negros para la tabla de módulos */
+    padding: 10px;
+}
+
+.modules thead th {
+    background-color: #f2f2f2;
+}
